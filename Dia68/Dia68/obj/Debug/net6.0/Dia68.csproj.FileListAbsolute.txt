@@ -1,0 +1,15 @@
+C:\Users\Okehittaja\source\repos\CeeSharpee\Dia68\Dia68\bin\Debug\net6.0\Dia68.exe
+C:\Users\Okehittaja\source\repos\CeeSharpee\Dia68\Dia68\bin\Debug\net6.0\Dia68.deps.json
+C:\Users\Okehittaja\source\repos\CeeSharpee\Dia68\Dia68\bin\Debug\net6.0\Dia68.runtimeconfig.json
+C:\Users\Okehittaja\source\repos\CeeSharpee\Dia68\Dia68\bin\Debug\net6.0\Dia68.dll
+C:\Users\Okehittaja\source\repos\CeeSharpee\Dia68\Dia68\bin\Debug\net6.0\ref\Dia68.dll
+C:\Users\Okehittaja\source\repos\CeeSharpee\Dia68\Dia68\bin\Debug\net6.0\Dia68.pdb
+C:\Users\Okehittaja\source\repos\CeeSharpee\Dia68\Dia68\obj\Debug\net6.0\Dia68.csproj.AssemblyReference.cache
+C:\Users\Okehittaja\source\repos\CeeSharpee\Dia68\Dia68\obj\Debug\net6.0\Dia68.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Okehittaja\source\repos\CeeSharpee\Dia68\Dia68\obj\Debug\net6.0\Dia68.AssemblyInfoInputs.cache
+C:\Users\Okehittaja\source\repos\CeeSharpee\Dia68\Dia68\obj\Debug\net6.0\Dia68.AssemblyInfo.cs
+C:\Users\Okehittaja\source\repos\CeeSharpee\Dia68\Dia68\obj\Debug\net6.0\Dia68.csproj.CoreCompileInputs.cache
+C:\Users\Okehittaja\source\repos\CeeSharpee\Dia68\Dia68\obj\Debug\net6.0\Dia68.dll
+C:\Users\Okehittaja\source\repos\CeeSharpee\Dia68\Dia68\obj\Debug\net6.0\ref\Dia68.dll
+C:\Users\Okehittaja\source\repos\CeeSharpee\Dia68\Dia68\obj\Debug\net6.0\Dia68.pdb
+C:\Users\Okehittaja\source\repos\CeeSharpee\Dia68\Dia68\obj\Debug\net6.0\Dia68.genruntimeconfig.cache
