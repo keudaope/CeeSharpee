@@ -1,0 +1,11 @@
+C:\Users\Okehittaja\source\repos\CeeSharpee\Muistio\Muistio\bin\Debug\Muistio.exe.config
+C:\Users\Okehittaja\source\repos\CeeSharpee\Muistio\Muistio\bin\Debug\Muistio.exe
+C:\Users\Okehittaja\source\repos\CeeSharpee\Muistio\Muistio\bin\Debug\Muistio.pdb
+C:\Users\Okehittaja\source\repos\CeeSharpee\Muistio\Muistio\obj\Debug\Muistio.csproj.AssemblyReference.cache
+C:\Users\Okehittaja\source\repos\CeeSharpee\Muistio\Muistio\obj\Debug\Muistio.csproj.SuggestedBindingRedirects.cache
+C:\Users\Okehittaja\source\repos\CeeSharpee\Muistio\Muistio\obj\Debug\Muistio.Muistio.resources
+C:\Users\Okehittaja\source\repos\CeeSharpee\Muistio\Muistio\obj\Debug\Muistio.Properties.Resources.resources
+C:\Users\Okehittaja\source\repos\CeeSharpee\Muistio\Muistio\obj\Debug\Muistio.csproj.GenerateResource.cache
+C:\Users\Okehittaja\source\repos\CeeSharpee\Muistio\Muistio\obj\Debug\Muistio.csproj.CoreCompileInputs.cache
+C:\Users\Okehittaja\source\repos\CeeSharpee\Muistio\Muistio\obj\Debug\Muistio.exe
+C:\Users\Okehittaja\source\repos\CeeSharpee\Muistio\Muistio\obj\Debug\Muistio.pdb
