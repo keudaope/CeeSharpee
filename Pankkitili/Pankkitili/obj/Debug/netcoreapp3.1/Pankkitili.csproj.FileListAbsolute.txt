@@ -1,0 +1,13 @@
+C:\Users\jyrili\source\repos\CeeSharpee\Pankkitili\Pankkitili\bin\Debug\netcoreapp3.1\Pankkitili.exe
+C:\Users\jyrili\source\repos\CeeSharpee\Pankkitili\Pankkitili\bin\Debug\netcoreapp3.1\Pankkitili.deps.json
+C:\Users\jyrili\source\repos\CeeSharpee\Pankkitili\Pankkitili\bin\Debug\netcoreapp3.1\Pankkitili.runtimeconfig.json
+C:\Users\jyrili\source\repos\CeeSharpee\Pankkitili\Pankkitili\bin\Debug\netcoreapp3.1\Pankkitili.runtimeconfig.dev.json
+C:\Users\jyrili\source\repos\CeeSharpee\Pankkitili\Pankkitili\bin\Debug\netcoreapp3.1\Pankkitili.dll
+C:\Users\jyrili\source\repos\CeeSharpee\Pankkitili\Pankkitili\bin\Debug\netcoreapp3.1\Pankkitili.pdb
+C:\Users\jyrili\source\repos\CeeSharpee\Pankkitili\Pankkitili\obj\Debug\netcoreapp3.1\Pankkitili.csprojAssemblyReference.cache
+C:\Users\jyrili\source\repos\CeeSharpee\Pankkitili\Pankkitili\obj\Debug\netcoreapp3.1\Pankkitili.csproj.CoreCompileInputs.cache
+C:\Users\jyrili\source\repos\CeeSharpee\Pankkitili\Pankkitili\obj\Debug\netcoreapp3.1\Pankkitili.AssemblyInfoInputs.cache
+C:\Users\jyrili\source\repos\CeeSharpee\Pankkitili\Pankkitili\obj\Debug\netcoreapp3.1\Pankkitili.AssemblyInfo.cs
+C:\Users\jyrili\source\repos\CeeSharpee\Pankkitili\Pankkitili\obj\Debug\netcoreapp3.1\Pankkitili.dll
+C:\Users\jyrili\source\repos\CeeSharpee\Pankkitili\Pankkitili\obj\Debug\netcoreapp3.1\Pankkitili.pdb
+C:\Users\jyrili\source\repos\CeeSharpee\Pankkitili\Pankkitili\obj\Debug\netcoreapp3.1\Pankkitili.genruntimeconfig.cache

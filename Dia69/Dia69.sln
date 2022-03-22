@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32126.317
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Dia69", "Dia69\Dia69.csproj", "{16FAB182-8957-4892-853C-AC5E478CF4FC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{16FAB182-8957-4892-853C-AC5E478CF4FC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{16FAB182-8957-4892-853C-AC5E478CF4FC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{16FAB182-8957-4892-853C-AC5E478CF4FC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{16FAB182-8957-4892-853C-AC5E478CF4FC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1C64BF22-6E37-47E7-AB8A-8830BE12B157}
+	EndGlobalSection
+EndGlobal
