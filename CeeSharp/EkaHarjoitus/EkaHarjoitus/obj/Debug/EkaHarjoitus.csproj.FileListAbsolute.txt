@@ -1,0 +1,10 @@
+C:\Users\jyrili\source\CeeSharp\EkaHarjoitus\EkaHarjoitus\bin\Debug\EkaHarjoitus.exe.config
+C:\Users\jyrili\source\CeeSharp\EkaHarjoitus\EkaHarjoitus\bin\Debug\EkaHarjoitus.exe
+C:\Users\jyrili\source\CeeSharp\EkaHarjoitus\EkaHarjoitus\bin\Debug\EkaHarjoitus.pdb
+C:\Users\jyrili\source\CeeSharp\EkaHarjoitus\EkaHarjoitus\obj\Debug\EkaHarjoitus.csprojAssemblyReference.cache
+C:\Users\jyrili\source\CeeSharp\EkaHarjoitus\EkaHarjoitus\obj\Debug\EkaHarjoitus.Form1.resources
+C:\Users\jyrili\source\CeeSharp\EkaHarjoitus\EkaHarjoitus\obj\Debug\EkaHarjoitus.Properties.Resources.resources
+C:\Users\jyrili\source\CeeSharp\EkaHarjoitus\EkaHarjoitus\obj\Debug\EkaHarjoitus.csproj.GenerateResource.cache
+C:\Users\jyrili\source\CeeSharp\EkaHarjoitus\EkaHarjoitus\obj\Debug\EkaHarjoitus.csproj.CoreCompileInputs.cache
+C:\Users\jyrili\source\CeeSharp\EkaHarjoitus\EkaHarjoitus\obj\Debug\EkaHarjoitus.exe
+C:\Users\jyrili\source\CeeSharp\EkaHarjoitus\EkaHarjoitus\obj\Debug\EkaHarjoitus.pdb
