@@ -1,0 +1,12 @@
+C:\Users\jyrili\source\repos\CeeSharpee\minunAuto\minunAuto\obj\Debug\netcoreapp3.1\minunAuto.csproj.CoreCompileInputs.cache
+C:\Users\jyrili\source\repos\CeeSharpee\minunAuto\minunAuto\obj\Debug\netcoreapp3.1\minunAuto.AssemblyInfoInputs.cache
+C:\Users\jyrili\source\repos\CeeSharpee\minunAuto\minunAuto\obj\Debug\netcoreapp3.1\minunAuto.AssemblyInfo.cs
+C:\Users\jyrili\source\repos\CeeSharpee\minunAuto\minunAuto\bin\Debug\netcoreapp3.1\minunAuto.exe
+C:\Users\jyrili\source\repos\CeeSharpee\minunAuto\minunAuto\bin\Debug\netcoreapp3.1\minunAuto.deps.json
+C:\Users\jyrili\source\repos\CeeSharpee\minunAuto\minunAuto\bin\Debug\netcoreapp3.1\minunAuto.runtimeconfig.json
+C:\Users\jyrili\source\repos\CeeSharpee\minunAuto\minunAuto\bin\Debug\netcoreapp3.1\minunAuto.runtimeconfig.dev.json
+C:\Users\jyrili\source\repos\CeeSharpee\minunAuto\minunAuto\bin\Debug\netcoreapp3.1\minunAuto.dll
+C:\Users\jyrili\source\repos\CeeSharpee\minunAuto\minunAuto\bin\Debug\netcoreapp3.1\minunAuto.pdb
+C:\Users\jyrili\source\repos\CeeSharpee\minunAuto\minunAuto\obj\Debug\netcoreapp3.1\minunAuto.dll
+C:\Users\jyrili\source\repos\CeeSharpee\minunAuto\minunAuto\obj\Debug\netcoreapp3.1\minunAuto.pdb
+C:\Users\jyrili\source\repos\CeeSharpee\minunAuto\minunAuto\obj\Debug\netcoreapp3.1\minunAuto.genruntimeconfig.cache

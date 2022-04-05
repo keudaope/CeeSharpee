@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29920.165
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EkaFormini", "EkaFormini\EkaFormini.csproj", "{C914A33D-1436-4502-A9D2-B984C4BED73A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C914A33D-1436-4502-A9D2-B984C4BED73A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C914A33D-1436-4502-A9D2-B984C4BED73A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C914A33D-1436-4502-A9D2-B984C4BED73A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C914A33D-1436-4502-A9D2-B984C4BED73A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E08AEBF3-0D0A-4C8D-AC29-85997FCF742B}
+	EndGlobalSection
+EndGlobal
