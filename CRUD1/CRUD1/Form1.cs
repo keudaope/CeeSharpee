@@ -12,6 +12,7 @@ namespace CRUD1
 {
     public partial class CRUDFM : Form
     {
+        Kayttaja user = new Kayttaja();
         public CRUDFM()
         {
             InitializeComponent();
@@ -23,5 +24,22 @@ namespace CRUD1
             KirjauduPL.Visible = true;
         }
 
+        private void button1_Click(object sender, EventArgs e)
+        {
+            String enimi = EtunimiTB.Text;
+            String snimi = SukunimiTB.Text;
+            String osoite = LahiosoiteTB.Text;
+            String pnro = PostinumeroTB.Text;
+            String ptp = PostitoimipaikkaTB.Text;
+            String puh = PuhelinTB.Text;
+            String email = EmailTB.Text;
+            user.lisaaKayttaja(enimi, snimi, osoite, pnro, ptp, puh, email);
+        }
+
+        private void UusiKTBT_Click(object sender, EventArgs e)
+        {
+            TervetuloPL.Visible = false;
+            UusiKayttajaPL.Visible = true;
+        }
     }
 }

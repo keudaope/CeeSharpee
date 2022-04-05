@@ -55,6 +55,7 @@
             this.LahiosoiteLB = new System.Windows.Forms.Label();
             this.SukunimiLB = new System.Windows.Forms.Label();
             this.EtunimiLB = new System.Windows.Forms.Label();
+            this.button1 = new System.Windows.Forms.Button();
             this.TervetuloPL.SuspendLayout();
             this.KirjauduPL.SuspendLayout();
             this.UusiKayttajaPL.SuspendLayout();
@@ -63,11 +64,11 @@
             // TervetuloLB
             // 
             this.TervetuloLB.AutoSize = true;
-            this.TervetuloLB.Font = new System.Drawing.Font("Mistral", 36F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.TervetuloLB.Font = new System.Drawing.Font("Microsoft Sans Serif", 36F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.TervetuloLB.ForeColor = System.Drawing.SystemColors.HotTrack;
-            this.TervetuloLB.Location = new System.Drawing.Point(139, 52);
+            this.TervetuloLB.Location = new System.Drawing.Point(61, 41);
             this.TervetuloLB.Name = "TervetuloLB";
-            this.TervetuloLB.Size = new System.Drawing.Size(499, 57);
+            this.TervetuloLB.Size = new System.Drawing.Size(672, 55);
             this.TervetuloLB.TabIndex = 0;
             this.TervetuloLB.Text = "Tervetuloa! Mitä haluat tehdä?";
             // 
@@ -75,7 +76,7 @@
             // 
             this.KirjauduBT.BackColor = System.Drawing.Color.PaleGreen;
             this.KirjauduBT.Font = new System.Drawing.Font("Microsoft Sans Serif", 20.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.KirjauduBT.Location = new System.Drawing.Point(319, 144);
+            this.KirjauduBT.Location = new System.Drawing.Point(328, 133);
             this.KirjauduBT.Name = "KirjauduBT";
             this.KirjauduBT.Size = new System.Drawing.Size(138, 49);
             this.KirjauduBT.TabIndex = 1;
@@ -87,18 +88,19 @@
             // 
             this.UusiKTBT.BackColor = System.Drawing.Color.Aqua;
             this.UusiKTBT.Font = new System.Drawing.Font("Microsoft Sans Serif", 20.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.UusiKTBT.Location = new System.Drawing.Point(172, 233);
+            this.UusiKTBT.Location = new System.Drawing.Point(181, 222);
             this.UusiKTBT.Name = "UusiKTBT";
             this.UusiKTBT.Size = new System.Drawing.Size(433, 49);
             this.UusiKTBT.TabIndex = 2;
             this.UusiKTBT.Text = "Luoda uuden käyttäjätunnuksen";
             this.UusiKTBT.UseVisualStyleBackColor = false;
+            this.UusiKTBT.Click += new System.EventHandler(this.UusiKTBT_Click);
             // 
             // LopetaBT
             // 
             this.LopetaBT.BackColor = System.Drawing.Color.Crimson;
             this.LopetaBT.Font = new System.Drawing.Font("Microsoft Sans Serif", 20.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.LopetaBT.Location = new System.Drawing.Point(261, 331);
+            this.LopetaBT.Location = new System.Drawing.Point(270, 320);
             this.LopetaBT.Name = "LopetaBT";
             this.LopetaBT.Size = new System.Drawing.Size(255, 49);
             this.LopetaBT.TabIndex = 3;
@@ -191,6 +193,7 @@
             // UusiKayttajaPL
             // 
             this.UusiKayttajaPL.BackColor = System.Drawing.Color.LightSteelBlue;
+            this.UusiKayttajaPL.Controls.Add(this.button1);
             this.UusiKayttajaPL.Controls.Add(this.PuhelinTB);
             this.UusiKayttajaPL.Controls.Add(this.EmailTB);
             this.UusiKayttajaPL.Controls.Add(this.PostitoimipaikkaTB);
@@ -206,7 +209,7 @@
             this.UusiKayttajaPL.Controls.Add(this.SukunimiLB);
             this.UusiKayttajaPL.Controls.Add(this.EtunimiLB);
             this.UusiKayttajaPL.Dock = System.Windows.Forms.DockStyle.Fill;
-            this.UusiKayttajaPL.Font = new System.Drawing.Font("Lucida Handwriting", 15.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.UusiKayttajaPL.Font = new System.Drawing.Font("Microsoft Sans Serif", 15.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.UusiKayttajaPL.ForeColor = System.Drawing.SystemColors.HighlightText;
             this.UusiKayttajaPL.Location = new System.Drawing.Point(0, 0);
             this.UusiKayttajaPL.Name = "UusiKayttajaPL";
@@ -215,115 +218,126 @@
             // 
             // PuhelinTB
             // 
-            this.PuhelinTB.Location = new System.Drawing.Point(260, 394);
+            this.PuhelinTB.Location = new System.Drawing.Point(260, 360);
             this.PuhelinTB.Name = "PuhelinTB";
-            this.PuhelinTB.Size = new System.Drawing.Size(187, 36);
+            this.PuhelinTB.Size = new System.Drawing.Size(187, 31);
             this.PuhelinTB.TabIndex = 13;
             // 
             // EmailTB
             // 
-            this.EmailTB.Location = new System.Drawing.Point(260, 352);
+            this.EmailTB.Location = new System.Drawing.Point(260, 318);
             this.EmailTB.Name = "EmailTB";
-            this.EmailTB.Size = new System.Drawing.Size(187, 36);
+            this.EmailTB.Size = new System.Drawing.Size(187, 31);
             this.EmailTB.TabIndex = 12;
             // 
             // PostitoimipaikkaTB
             // 
-            this.PostitoimipaikkaTB.Location = new System.Drawing.Point(260, 310);
+            this.PostitoimipaikkaTB.Location = new System.Drawing.Point(260, 276);
             this.PostitoimipaikkaTB.Name = "PostitoimipaikkaTB";
-            this.PostitoimipaikkaTB.Size = new System.Drawing.Size(187, 36);
+            this.PostitoimipaikkaTB.Size = new System.Drawing.Size(187, 31);
             this.PostitoimipaikkaTB.TabIndex = 11;
             // 
             // PostinumeroTB
             // 
-            this.PostinumeroTB.Location = new System.Drawing.Point(260, 268);
+            this.PostinumeroTB.Location = new System.Drawing.Point(260, 234);
             this.PostinumeroTB.Name = "PostinumeroTB";
-            this.PostinumeroTB.Size = new System.Drawing.Size(187, 36);
+            this.PostinumeroTB.Size = new System.Drawing.Size(187, 31);
             this.PostinumeroTB.TabIndex = 10;
             // 
             // LahiosoiteTB
             // 
-            this.LahiosoiteTB.Location = new System.Drawing.Point(260, 226);
+            this.LahiosoiteTB.Location = new System.Drawing.Point(260, 192);
             this.LahiosoiteTB.Name = "LahiosoiteTB";
-            this.LahiosoiteTB.Size = new System.Drawing.Size(187, 36);
+            this.LahiosoiteTB.Size = new System.Drawing.Size(187, 31);
             this.LahiosoiteTB.TabIndex = 9;
             // 
             // SukunimiTB
             // 
-            this.SukunimiTB.Location = new System.Drawing.Point(260, 184);
+            this.SukunimiTB.Location = new System.Drawing.Point(260, 150);
             this.SukunimiTB.Name = "SukunimiTB";
-            this.SukunimiTB.Size = new System.Drawing.Size(187, 36);
+            this.SukunimiTB.Size = new System.Drawing.Size(187, 31);
             this.SukunimiTB.TabIndex = 8;
             // 
             // EtunimiTB
             // 
-            this.EtunimiTB.Location = new System.Drawing.Point(260, 142);
+            this.EtunimiTB.Location = new System.Drawing.Point(260, 108);
             this.EtunimiTB.Name = "EtunimiTB";
-            this.EtunimiTB.Size = new System.Drawing.Size(187, 36);
+            this.EtunimiTB.Size = new System.Drawing.Size(187, 31);
             this.EtunimiTB.TabIndex = 7;
             // 
             // PuhelinLB
             // 
             this.PuhelinLB.AutoSize = true;
-            this.PuhelinLB.Location = new System.Drawing.Point(12, 403);
+            this.PuhelinLB.Location = new System.Drawing.Point(12, 369);
             this.PuhelinLB.Name = "PuhelinLB";
-            this.PuhelinLB.Size = new System.Drawing.Size(112, 27);
+            this.PuhelinLB.Size = new System.Drawing.Size(90, 25);
             this.PuhelinLB.TabIndex = 6;
             this.PuhelinLB.Text = "Puhelin:";
             // 
             // EmailLB
             // 
             this.EmailLB.AutoSize = true;
-            this.EmailLB.Location = new System.Drawing.Point(21, 363);
+            this.EmailLB.Location = new System.Drawing.Point(21, 329);
             this.EmailLB.Name = "EmailLB";
-            this.EmailLB.Size = new System.Drawing.Size(90, 27);
+            this.EmailLB.Size = new System.Drawing.Size(71, 25);
             this.EmailLB.TabIndex = 5;
             this.EmailLB.Text = "Email:";
             // 
             // PostitoimipaikkaLB
             // 
             this.PostitoimipaikkaLB.AutoSize = true;
-            this.PostitoimipaikkaLB.Location = new System.Drawing.Point(12, 319);
+            this.PostitoimipaikkaLB.Location = new System.Drawing.Point(12, 285);
             this.PostitoimipaikkaLB.Name = "PostitoimipaikkaLB";
-            this.PostitoimipaikkaLB.Size = new System.Drawing.Size(222, 27);
+            this.PostitoimipaikkaLB.Size = new System.Drawing.Size(174, 25);
             this.PostitoimipaikkaLB.TabIndex = 4;
             this.PostitoimipaikkaLB.Text = "Postitoimipaikka:";
             // 
             // PostinumeroLB
             // 
             this.PostinumeroLB.AutoSize = true;
-            this.PostinumeroLB.Location = new System.Drawing.Point(12, 277);
+            this.PostinumeroLB.Location = new System.Drawing.Point(12, 243);
             this.PostinumeroLB.Name = "PostinumeroLB";
-            this.PostinumeroLB.Size = new System.Drawing.Size(167, 27);
+            this.PostinumeroLB.Size = new System.Drawing.Size(138, 25);
             this.PostinumeroLB.TabIndex = 3;
             this.PostinumeroLB.Text = "Postinumero:";
             // 
             // LahiosoiteLB
             // 
             this.LahiosoiteLB.AutoSize = true;
-            this.LahiosoiteLB.Location = new System.Drawing.Point(12, 235);
+            this.LahiosoiteLB.Location = new System.Drawing.Point(12, 201);
             this.LahiosoiteLB.Name = "LahiosoiteLB";
-            this.LahiosoiteLB.Size = new System.Drawing.Size(141, 27);
+            this.LahiosoiteLB.Size = new System.Drawing.Size(117, 25);
             this.LahiosoiteLB.TabIndex = 2;
             this.LahiosoiteLB.Text = "Lähiosoite:";
             // 
             // SukunimiLB
             // 
             this.SukunimiLB.AutoSize = true;
-            this.SukunimiLB.Location = new System.Drawing.Point(12, 193);
+            this.SukunimiLB.Location = new System.Drawing.Point(12, 159);
             this.SukunimiLB.Name = "SukunimiLB";
-            this.SukunimiLB.Size = new System.Drawing.Size(135, 27);
+            this.SukunimiLB.Size = new System.Drawing.Size(106, 25);
             this.SukunimiLB.TabIndex = 1;
             this.SukunimiLB.Text = "Sukunimi:";
             // 
             // EtunimiLB
             // 
             this.EtunimiLB.AutoSize = true;
-            this.EtunimiLB.Location = new System.Drawing.Point(12, 151);
+            this.EtunimiLB.Location = new System.Drawing.Point(12, 117);
             this.EtunimiLB.Name = "EtunimiLB";
-            this.EtunimiLB.Size = new System.Drawing.Size(115, 27);
+            this.EtunimiLB.Size = new System.Drawing.Size(89, 25);
             this.EtunimiLB.TabIndex = 0;
             this.EtunimiLB.Text = "Etunimi:";
+            // 
+            // button1
+            // 
+            this.button1.BackColor = System.Drawing.Color.DeepSkyBlue;
+            this.button1.Location = new System.Drawing.Point(9, 405);
+            this.button1.Name = "button1";
+            this.button1.Size = new System.Drawing.Size(437, 35);
+            this.button1.TabIndex = 14;
+            this.button1.Text = "Luo uusi käyttäjä";
+            this.button1.UseVisualStyleBackColor = false;
+            this.button1.Click += new System.EventHandler(this.button1_Click);
             // 
             // CRUDFM
             // 
@@ -331,9 +345,9 @@
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackColor = System.Drawing.Color.AliceBlue;
             this.ClientSize = new System.Drawing.Size(800, 450);
+            this.Controls.Add(this.TervetuloPL);
             this.Controls.Add(this.UusiKayttajaPL);
             this.Controls.Add(this.KirjauduPL);
-            this.Controls.Add(this.TervetuloPL);
             this.Name = "CRUDFM";
             this.Text = "CRUD";
             this.TervetuloPL.ResumeLayout(false);
@@ -375,6 +389,7 @@
         private System.Windows.Forms.TextBox PostitoimipaikkaTB;
         private System.Windows.Forms.TextBox PostinumeroTB;
         private System.Windows.Forms.TextBox LahiosoiteTB;
+        private System.Windows.Forms.Button button1;
     }
 }
 
