@@ -1,0 +1,16 @@
+C:\Users\Okehittaja\source\repos\CeeSharpee\Apinako\Apinako\bin\Debug\Apinako.exe.config
+C:\Users\Okehittaja\source\repos\CeeSharpee\Apinako\Apinako\bin\Debug\Apinako.exe
+C:\Users\Okehittaja\source\repos\CeeSharpee\Apinako\Apinako\bin\Debug\Apinako.pdb
+C:\Users\Okehittaja\source\repos\CeeSharpee\Apinako\Apinako\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Okehittaja\source\repos\CeeSharpee\Apinako\Apinako\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\Okehittaja\source\repos\CeeSharpee\Apinako\Apinako\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Okehittaja\source\repos\CeeSharpee\Apinako\Apinako\bin\Debug\System.Net.Http.Formatting.xml
+C:\Users\Okehittaja\source\repos\CeeSharpee\Apinako\Apinako\obj\Debug\Apinako.csproj.AssemblyReference.cache
+C:\Users\Okehittaja\source\repos\CeeSharpee\Apinako\Apinako\obj\Debug\Apinako.csproj.SuggestedBindingRedirects.cache
+C:\Users\Okehittaja\source\repos\CeeSharpee\Apinako\Apinako\obj\Debug\Apinako.Apilomake.resources
+C:\Users\Okehittaja\source\repos\CeeSharpee\Apinako\Apinako\obj\Debug\Apinako.Properties.Resources.resources
+C:\Users\Okehittaja\source\repos\CeeSharpee\Apinako\Apinako\obj\Debug\Apinako.csproj.GenerateResource.cache
+C:\Users\Okehittaja\source\repos\CeeSharpee\Apinako\Apinako\obj\Debug\Apinako.csproj.CoreCompileInputs.cache
+C:\Users\Okehittaja\source\repos\CeeSharpee\Apinako\Apinako\obj\Debug\Apinako.csproj.CopyComplete
+C:\Users\Okehittaja\source\repos\CeeSharpee\Apinako\Apinako\obj\Debug\Apinako.exe
+C:\Users\Okehittaja\source\repos\CeeSharpee\Apinako\Apinako\obj\Debug\Apinako.pdb

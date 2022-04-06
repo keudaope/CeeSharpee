@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32126.317
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Apinako", "Apinako\Apinako.csproj", "{93D0CE34-F4C3-4DDB-96E4-8ACA8F128F97}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{93D0CE34-F4C3-4DDB-96E4-8ACA8F128F97}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{93D0CE34-F4C3-4DDB-96E4-8ACA8F128F97}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{93D0CE34-F4C3-4DDB-96E4-8ACA8F128F97}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{93D0CE34-F4C3-4DDB-96E4-8ACA8F128F97}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D32E81F4-9CF4-4316-91D2-5D4A49E5DFD3}
+	EndGlobalSection
+EndGlobal
